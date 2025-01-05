@@ -1,0 +1,54 @@
+style:
+    MagicNumber:
+        active: true
+    MaxLineLength:
+        active: true
+    LoopWithTooManyJumpStatements:
+        active: true
+    WildcardImport:
+        active: true
+    ReturnCount:
+        active: true
+    UnusedPrivateProperty:
+        active: true
+    UnusedParameter:
+        active: true
+    UtilityClassWithPublicConstructor:
+        active: true
+
+naming:
+    FunctionNaming:
+        active: true
+        ignoreAnnotated: ["Composable"]
+
+complexity:
+    TooManyFunctions:
+        active: true
+    NestedBlockDepth:
+        active: true
+    ComplexCondition:
+        active: true
+    LongParameterList:
+        active: true
+        functionThreshold: 10
+    LongMethod:
+        active: true
+        ignoreAnnotated: ["Composable"]
+    CyclomaticComplexMethod:
+        active: true
+
+exceptions:
+    SwallowedException:
+        active: true
+    InstanceOfCheckForException:
+        active: true
+
+empty-blocks:
+    EmptyCatchBlock:
+        active: true
+    EmptyFunctionBlock:
+        active: true
+
+performance:
+    SpreadOperator:
+        active: true
