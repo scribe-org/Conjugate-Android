@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/scribe-org/Conjugate-Android"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeGitHubOrgBanner.png" width=1024 alt="Scribe Logo"></a>
+  <a href="https://github.com/scribe-org/Conjugate-Android"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/logo/conjugate/ConjugateGitHubBanner.png" width=1024 alt="Scribe Logo"></a>
 </div>
 
 [![platforms](https://img.shields.io/static/v1?message=Android&logo=android&color=32DE84&logoColor=white&label=%20)](https://github.com/scribe-org/Conjugate-Android)
